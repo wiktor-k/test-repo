@@ -12,3 +12,17 @@
 ```
 
 Is this OK?
+
+```rust
+fn main() {}
+```
+
+```rust file=test.rs
+fn main() {}
+```
+
+```rust,file=test.rs
+fn main() {}
+```
+
+test
