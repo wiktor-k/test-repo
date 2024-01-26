@@ -13,15 +13,21 @@
 
 Is this OK?
 
+Raw:
+
 ```rust
 fn main() {}
 ```
 
-```rust file=test.rs
+With spaces:
+
+```rust file=test.rs id=3 comment=test
 fn main() {}
 ```
 
-```rust,file=test.rs
+With commas:
+
+```rust,file=test.rs,id=3,comment=test
 fn main() {}
 ```
 
