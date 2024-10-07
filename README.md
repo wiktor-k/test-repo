@@ -1,3 +1,11 @@
+<div align="center">
+  <!-- Crates version -->
+  <a href="https://metacode.biz/@wiktor" rel="me">
+    <img src="https://img.shields.io/crates/v/pgp.svg?style=flat-square"
+    alt="Crates.io version" />
+  </a>
+</div
+
 # Test Repo
 
 ```mermaid
